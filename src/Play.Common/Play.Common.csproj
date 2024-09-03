@@ -2,6 +2,9 @@
 
   <PropertyGroup>
     <TargetFramework>net8.0</TargetFramework>
+    <PackageDescriptions>Common libraries used by Play Economy services.</PackageDescriptions>
+    <Authors>Alvaro Perez</Authors>
+    <Company>alvperagu</Company>
   </PropertyGroup>
 
   <ItemGroup>
